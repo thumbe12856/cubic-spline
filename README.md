@@ -1,8 +1,9 @@
 ### Cubic Spline matlab code
+matlab code most reference from http://web.cecs.pdx.edu/~gerry/nmm/
 
 matlab script example:
 - data: (1, 1), (2, 3), (3, 2), (4, 4)
-- slopes of the end: 0
+- The slopes at x = 1 and x = 4 are 0
 
 ```sh
 $ x = [1 2 3 4]
